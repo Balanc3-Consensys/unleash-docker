@@ -3,5 +3,5 @@
 myDeliveryPipeline {
   containerName = 'unleash'
   releaseName = ''
-  yamlPathToImageTag = ''
+  yamlPathToImageTag = 'image.tag'
 }
